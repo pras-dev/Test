@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sentences>
+    <sentence id="400">
+        <text>kri sultan iskandar muda (sim-367) tiba di lebanon untuk misi perdamaian unifil</text>
+        <aspectTerms>
+            <aspectTerm term="kri sultan iskandar muda (sim-367)" polarity="positive" from="0" to="33"/>
+            <aspectTerm term="lebanon" polarity="positive" from="43" to="49"/>
+            <aspectTerm term="unifil" polarity="positive" from="73" to="78"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="401">
+        <text>kbri dengan bangga meluncurkan buletin triwulan "brunindo news" volum 5 januari-maret 2021 buletin dapat diakses di link berikut</text>
+        <aspectTerms>
+            <aspectTerm term="kbri" polarity="positive" from="0" to="3"/>
+            <aspectTerm term="buletin triwulan" polarity="positive" from="31" to="46"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="402">
+        <text>pusat kegiatan belajar masyarakat pkbm indonesia pertama di jepang resmi didirikan</text>
+        <aspectTerms>
+            <aspectTerm term="pusat kegiatan belajar masyarakat pkbm indonesia pertama" polarity="positive" from="0" to="55"/>
+            <aspectTerm term="jepang" polarity="positive" from="60" to="65"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="403">
+        <text>hallo sahabat pejuang cpns se-indonesia! bingung karena banyak berita simpang siur mengenai penerimaan cpns tahun ini? hadirilah "bincang hangat sosialisasi seleksi cpns 2021" dengan menteri pan-rb dan kepala badan kepagawaian nasional</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="404">
+        <text>p3km kemlu bekerjasama dengan unctad dan pspd ugm akan menggelar fgd mempromosikan kekayaan intelektual dalam ekonomi digital sebagai bagian dari ekonomi kreatif internasional tahun 2021</text>
+        <aspectTerms>
+            <aspectTerm term="p3km kemlu" polarity="positive" from="0" to="9"/>
+            <aspectTerm term="unctad dan pspd ugm" polarity="positive" from="30" to="48"/>
+            <aspectTerm term="fgd" polarity="positive" from="65" to="67"/>
+            <aspectTerm term="kekayaan intelektual dalam ekonomi digital" polarity="positive" from="83" to="124"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="405">
+        <text>sentra produksi minyak atsiri berada di sulawesi, sumatera dan jawa. tujuan ekspor utama - amerika serikat, eropa, australia, afrika, dan negara-negara asean.</text>
+        <aspectTerms>
+            <aspectTerm term="produksi" polarity="positive" from="7" to="14"/>
+            <aspectTerm term="minyak atsiri" polarity="positive" from="16" to="28"/>
+            <aspectTerm term="sulawesi, sumatera dan jawa" polarity="positive" from="40" to="66"/>
+            <aspectTerm term="ekspor" polarity="positive" from="76" to="81"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="406">
+        <text>jenis minyak atsiri yang dapat diperhatikan antara lain nilam, akar wangi, cendana, kirmizi, kayu manis, cengkeh, kemangi, melati, pala, lemon, seledri, dan anggur</text>
+        <aspectTerms>
+            <aspectTerm term="minyak atsiri" polarity="positive" from="6" to="18"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="407">
+        <text>indonesia memiliki keragaman jenis minyak atsiri (essential oil). jenis minyak atsiri indonesia diantaranya nilam, tanaman akar wangi, cendana, gaharu, kayu manis, cengkeh, kemangi, melati, pala. lemon, seledri dan anggur.</text>
+        <aspectTerms>
+            <aspectTerm term="indonesia" polarity="positive" from="0" to="8"/>
+            <aspectTerm term="minyak atsiri" polarity="positive" from="35" to="47"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="408">
+        <text>p3km sampaikan kuliah umum mengenai teori ekonomi politik internasional kepada mahasiswa hi</text>
+        <aspectTerms>
+            <aspectTerm term="p3km" polarity="positive" from="0" to="3"/>
+            <aspectTerm term="kuliah umum" polarity="positive" from="15" to="25"/>
+            <aspectTerm term="ekonomi politik internasional" polarity="positive" from="42" to="70"/>
+            <aspectTerm term="mahasiswa hi" polarity="positive" from="79" to="90"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="409">
+        <text>salam sehat! ibu dan bapak serta saudara/i wni di abu dhabi, yuk kita silaturahmi jelang ramadhan. saling sapa sambil lewat dengan dubes ri di pantai corniche gate 4-5, hari jumat (9/4/21) jam 8 pagi. biar rame, kita pakai atribut yang ada ciri khas indonesia yaaa.</text>
+        <aspectTerms>
+            <aspectTerm term="wni di abu dhabi" polarity="positive" from="43" to="59"/>
+            <aspectTerm term="silaturahmi" polarity="positive" from="70" to="80"/>
+            <aspectTerm term="dubes ri" polarity="positive" from="131" to="138"/>
+            <aspectTerm term="pantai corniche" polarity="positive" from="143" to="157"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="410">
+        <text>ambassador magazine selenggarakan acara mengenang dan doa bersama almarhum bapak totok prianamto, konsul jenderal ri karachi periode 2018-2020</text>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="411">
+        <text>konsulat jenderal ri, konsul bidang perekonomian bpk. djumara supriyadi mengunjungi pakistan indonesia business forum (pibf) untuk melakukan pertemuan dengan ketua, bpk. shamoon zaki </text>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="412">
+        <text>indonesia membahas potensi bisnis kopi di pakistan. kjri karachi diplomat bp hidayat zakaria dan bp djumara supriyadi mengunjungi ahmed jaffer and company (pvt) ltd (ajcl)</text>
+        <aspectTerms>
+            <aspectTerm term="indonesia" polarity="positive" from="0" to="8"/>
+            <aspectTerm term="bisnis kopi" polarity="positive" from="27" to="36"/>
+            <aspectTerm term="pakistan" polarity="positive" from="42" to="49"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="413">
+        <text>pt. original nest indonesia berlokasi di sumatera utara indonesia dan telah terdaftar sebagai salah satu perusahaan sarang burung walet legal di indonesia. dimulai pada tahun 1997, misi perusahaan adalah membawa sarang burung indonesia ke dunia.</text>
+        <aspectTerms>
+            <aspectTerm term="pt. original nest" polarity="neutral" from="0" to="16"/>
+            <aspectTerm term="perusahaan sarang burung walet legal di indonesia" polarity="positive" from="105" to="153"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="414">
+        <text>kami sangat berduka atas hilangnya nyawa yang berharga, orang hilang dan kehancuran yang terjadi di indonesia akibat banjir dan tanah longsor. pikiran dan doa kami bersama para korban, keluarga mereka, dan saudara-saudara kita di indonesia.</text>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="415">
+        <text>diplomasi untuk student dan keluarga yang terpisah bagaimana bapak/ibu?</text>
+        <aspectTerms>
+            <aspectTerm term="diplomasi" polarity="neutral" from="0" to="16"/>
+            <aspectTerm term="student dan keluarga" polarity="positive" from="105" to="153"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="416">
+        <text>kolang kaling komoditi unggul baru untuk ekspor. banyaknya manfaat kolang-kaling telah menggelitik minat orang indonesia dan warga negara asing, dan selama bertahun-tahun semakin banyak orang yang menyukai makanan ringan yang luar biasa ini.</text>
+        <aspectTerms>
+            <aspectTerm term="kolang kaling" polarity="positive" from="0" to="12"/>
+            <aspectTerm term="ekspor" polarity="positive" from="41" to="47"/>
+            <aspectTerm term="manfaat" polarity="positive" from="59" to="65"/>
+            <aspectTerm term="makanan ringan" polarity="positive" from="206" to="219"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="417">
+        <text>terima kasih gita telah menjadi tuan rumah makan siang mikta yang luar biasa. kami menikmati percakapan substantif juga dengan dubes.</text>
+        <aspectTerms>
+            <aspectTerm term="gita" polarity="positive" from="13" to="16"/>
+            <aspectTerm term="tuan rumah makan siang mikta" polarity="positive" from="32" to="59"/>
+            <aspectTerm term="percakapan" polarity="positive" from="93" to="102"/>
+            <aspectTerm term="dubes" polarity="positive" from="127" to="131"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="418">
+        <text>likupang memiliki keindahan alam yang eksotis dan  terkonservasi dengan baik, karena likupang memiliki fasilitas self-ecotourism yang membantu pelestarian terumbu karang dan ekosistem laut.</text>
+        <aspectTerms>       
+            <aspectTerm term="likupang" polarity="positive" from="0" to="7"/>
+            <aspectTerm term="keindahan alam" polarity="positive" from="18" to="31"/>
+            <aspectTerm term="likupang" polarity="positive" from="85" to="92"/>
+            <aspectTerm term="fasilitas self-ecotourism" polarity="positive" from="103" to="127"/>
+            <aspectTerm term="pelestarian terumbu karang dan ekosistem laut" polarity="positive" from="143" to="187"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="419">
+        <text>kemlu catat hingga hari ini total ada 4.150 wni terpapar covid-19 di luar negeri</text>
+        <aspectTerms>       
+            <aspectTerm term="kemlu" polarity="positive" from="0" to="4"/>
+            <aspectTerm term="wni" polarity="positive" from="44" to="46"/>
+            <aspectTerm term="covid-19" polarity="positive" from="57" to="64"/>
+            <aspectTerm term="luar negeri" polarity="positive" from="69" to="79"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="420">
+        <text>universitas negeri yogyakarta membuka beasiswa gelar bagi mahasiswa internasional. cek persyaratan, prosedur, dan batas waktu lamaran di brosur.</text>
+        <aspectTerms>
+            <aspectTerm term="universitas negeri yogyakarta" polarity="positive" from="0" to="28"/>
+            <aspectTerm term="beasiswa gelar" polarity="positive" from="38" to="51"/>
+            <aspectTerm term="mahasiswa internasional" polarity="positive" from="58" to="80"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="421">
+        <text>likupang terletak di minahasa utara, sulawesi utara. daerah ini masih asing bagi wisatawan asing, namun tempat ini menyimpan banyak wisata alam eksotis yang layak untuk dijelajahi.</text>
+        <aspectTerms>
+            <aspectTerm term="likupang" polarity="neutral" from="0" to="7"/>
+            <aspectTerm term="minahasa utara, sulawesi utara" polarity="neutral" from="21" to="50"/>
+            <aspectTerm term="wisatawan asing" polarity="negative" from="81" to="95"/>
+            <aspectTerm term="wisata alam" polarity="positive" from="132" to="142"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="422">
+        <text>la trobe university australia tutup program bahasa indonesia</text>
+        <aspectTerms>
+            <aspectTerm term="la trobe university australia" polarity="neutral" from="0" to="28"/>
+            <aspectTerm term="program bahasa indonesia" polarity="negative" from="36" to="59"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="423">
+        <text>semangat untuk sabar yukk bund pasti berangkat sebentar lagi</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="424">
+        <text>min, kasian yg di luar jakarta gk bs ikutan</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="425">
+        <text>saya tidak sabar menunggu jepang dibuka untuk pemagang indonesia</text>
+        <aspectTerms>
+            <aspectTerm term="jepang" polarity="positive" from="26" to="31"/>
+            <aspectTerm term="pemagang indonesia" polarity="positive" from="46" to="63"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="426">
+        <text>bagaimana mengukur keberhasilan pemulihan pascapandemi covid19 dalam konteks multilateral?dengan kedubes rusia dan kementerian luar negeri, ketegangan geopolitik harus diatasi dengan kerjasama ilmu pengetahuan dan penelitian.</text>
+        <aspectTerms>
+            <aspectTerm term="keberhasilan pemulihan" polarity="neutral" from="19" to="40"/>
+            <aspectTerm term="pascapandemi covid19" polarity="neutral" from="42" to="61"/>
+            <aspectTerm term="konteks multilateral" polarity="neutral" from="69" to="88"/>
+            <aspectTerm term="kedubes rusia dan kementerian luar negeri" polarity="positive" from="97" to="137"/>
+            <aspectTerm term="kerjasama ilmu pengetahuan dan penelitian" polarity="positive" from="183" to="223"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="427">
+        <text>maladewa menempati peringkat 124 dari 175 pada indeks persepsi korupsi transparency international. jika anda google 'korupsi maladewa', hasilnya akan memberi anda gambaran yang sangat jelas tentang apa yang sedang dilakukan negara ini.mengapa mereka layak mendapatkan bantuan pembangunan?itu tidak!</text>
+        <aspectTerms>
+            <aspectTerm term="maladewa" polarity="neutral" from="0" to="7"/>
+            <aspectTerm term="indeks persepsi korupsi transparency international" polarity="neutral" from="47" to="96"/>
+            <aspectTerm term="bantuan pembangunan" polarity="positive" from="268" to="286"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="428">
+        <text>kita tidak hanya perlu mengatasi masalah krisis myanmar, tetapi kita sebagai negara-negara besar demokrasi perlu segera turun tangan ke myanmar karena perang saudara dan krisis pengungsi akan terjadi di myanmar.</text>
+        <aspectTerms>
+            <aspectTerm term="krisis myanmar" polarity="positive" from="41" to="55"/>
+            <aspectTerm term="negara-negara besar demokrasi" polarity="positive" from="77" to="105"/>
+            <aspectTerm term="myanmar" polarity="positive" from="136" to="142"/>
+            <aspectTerm term="perang saudara dan krisis pengungsi" polarity="negative" from="151" to="185"/>
+            <aspectTerm term="myanmar" polarity="negative" from="203" to="209"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="429">
+        <text>di korsel banyak wni yang kena covid-19, tapi angka meninggal nol. artinya penanganan pandemi di korsel sangat baik</text>
+        <aspectTerms>
+            <aspectTerm term="korsel" polarity="neutral" from="19" to="40"/>
+            <aspectTerm term="wni" polarity="negative" from="42" to="61"/>
+            <aspectTerm term="covid-19" polarity="negative" from="69" to="88"/>
+            <aspectTerm term="penanganan pandemi di korsel" polarity="positive" from="97" to="137"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="430">
+        <text>bangsa indonesia yang sering dilanda bencana. warga korea selatan harus lebih humanis: misalnya menawarkan perlindungan di pulau marado.</text>
+        <aspectTerms>
+            <aspectTerm term="bangsa indonesia" polarity="neutral" from="0" to="15"/>
+            <aspectTerm term="warga korea selatan" polarity="neutral" from="46" to="64"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="431">
+        <text>duta besar india untuk indonesia shri manoj kumar bharti ajak delegasi ramayana prambanan untuk pentas di india</text>
+        <aspectTerms>
+            <aspectTerm term="duta besar india" polarity="positive" from="0" to="15"/>
+            <aspectTerm term="delegasi ramayana prambanan" polarity="positive" from="62" to="88"/>
+            <aspectTerm term="india" polarity="positive" from="106" to="110"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="432">
+        <text>kolang kaling sebagai komoditas ekspor superior indonesia</text>
+        <aspectTerms>
+            <aspectTerm term="kolang kaling" polarity="positive" from="0" to="12"/>
+            <aspectTerm term="ekspor" polarity="positive" from="32" to="37"/>
+            <aspectTerm term="indonesia" polarity="positive" from="48" to="56"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="433">
+        <text>selamat datang di indonesia a/k/a neraka di bumi untuk hewan. negara yang tidak beradab ini mengizinkan penyiksaan hewan yang berkelanjutan! mereka adalah pengecut yang berjanji untuk mengakhiri tahun ini demi tahun tetapi tidak ada yang dilakukan! negara yang memuakkan dan biadab, jangan pernah bepergian ke sana!</text>
+        <aspectTerms>
+            <aspectTerm term="indonesia" polarity="negative" from="18" to="26"/>
+            <aspectTerm term="negara" polarity="negative" from="62" to="67"/>
+            <aspectTerm term="penyiksaan hewan" polarity="negative" from="104" to="119"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="434">
+        <text>mari bergabung dan simak hal-hal yang perlu diketahui mengenai perlindungan hukum australia</text>
+        <aspectTerms>
+            <aspectTerm term="perlindungan hukum australia" polarity="positive" from="63" to="90"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>    
+    <sentence id="435">
+        <text>mengapa wna dari saudi ini bisa menjadi provokator di negeri ini???bukankah bisa dideportasi???</text>
+        <aspectTerms>
+            <aspectTerm term="wna dari saudi" polarity="negative" from="8" to="21"/>
+            <aspectTerm term="provokator" polarity="negative" from="40" to="49"/>
+            <aspectTerm term="negeri" polarity="negative" from="54" to="59"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="436">
+        <text>tanah longsor menyapu puluhan rumah di pulau flores, provinsi nusa tenggara timur, sabtu ini. lebih dari 110 orang hilang. pencarian dilakukan untuk menemukan orang hilang.</text>
+        <aspectTerms>
+            <aspectTerm term="tanah longsor" polarity="negative" from="0" to="12"/>
+            <aspectTerm term="pulau flores, provinsi nusa tenggara timur" polarity="negative" from="39" to="80"/>
+            <aspectTerm term="orang hilang" polarity="negative" from="109" to="120"/>
+            <aspectTerm term="pencarian" polarity="positive" from="123" to="131"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="437">
+        <text>kami menyebarkan cinta dari misool, raja ampat, papua barat! </text>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="438">
+        <text>4 korban sandera abu sayyaf yang bebas kembali ke keluarga. sejak 2016 total 44 wni telah disandera asg; dengan bebasnya empat abk ini tidak ada lagi warga indonesia yang disandera.</text>
+        <aspectTerms>
+            <aspectTerm term="4 korban sandera abu sayyaf" polarity="positive" from="0" to="26"/>
+            <aspectTerm term="kembali ke keluarga" polarity="positive" from="39" to="57"/>
+            <aspectTerm term="44 wni" polarity="positive" from="77" to="82"/>
+            <aspectTerm term="empat abk" polarity="positive" from="121" to="129"/>
+            <aspectTerm term="warga indonesia" polarity="positive" from="150" to="164"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="439">
+        <text>saat ini sentra produksi minyak nilam di indonesia berada di sulawesi, sumatera dan jawa. negara tujuan utama ekspor tersebut adalah amerika serikat, eropa, australia, afrika, dan negara-negara asean.</text>
+        <aspectTerms>
+            <aspectTerm term="minyak nilam" polarity="positive" from="25" to="36"/>
+            <aspectTerm term="ekspor" polarity="positive" from="110" to="115"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="440">
+        <text>ulos telah dikembangkan secara turun temurun oleh masyarakat sumatera utara dan menjadi aksesoris kebanggaan masyarakat batak. tenun bugis berasal dari sulawesi selatan dan dikenal sebagai sarung sutra bugis.</text>
+        <aspectTerms>
+            <aspectTerm term="ulos" polarity="neutral" from="0" to="4"/>
+            <aspectTerm term="masyarakat sumatera utara" polarity="neutral" from="50" to="74"/>
+            <aspectTerm term="aksesoris" polarity="positive" from="88" to="96"/>
+            <aspectTerm term="masyarakat batak" polarity="positive" from="109" to="124"/>
+            <aspectTerm term="tenun bugis" polarity="neutral" from="127" to="136"/>
+            <aspectTerm term="sulawesi selatan" polarity="neutral" from="152" to="167"/>
+            <aspectTerm term="sarung sutra bugis" polarity="neutral" from="189" to="206"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="441">
+        <text>jika dunia tidak bisa menghentikan tindakan brutal junta, lebih banyak nyawa akan terbunuh.</text>
+        <aspectTerms>
+            <aspectTerm term="dunia" polarity="negative" from="5" to="9"/>
+            <aspectTerm term="tindakan brutal junta" polarity="negative" from="35" to="55"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="442">
+        <text>besok jam 8.30 pagi. pemangku kepentingan virtual oleh co-chairs forum multi-stakeholder sains, teknologi dan inovasi untuk sdgs (sti forum), duta besar mohammad koba</text>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="443">
+        <text>atau mungkin anda akhirnya sedih dengan kenyataan bahwa tentara rusia berada di perbatasan dengan ukraina, siap menyerang, dan presiden kita pergi ke qatar untuk berjemur ???? !!!!</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="444">
+        <text>.. dari kain yang mengikat dan menyisipkan benang emas</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="445">
+        <text>apakah anda tidak sedih dengan kematian anak laki-laki berusia 5 tahun? siapa yang dibunuh oleh apu dengan drone?</text>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="446">
+        <text>ha kan indo udah punya hubungan diplomatik ama iran</text>
+        <aspectTerms>
+            <aspectTerm term="hubungan diplomatik" polarity="neutral" from="23" to="41"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="447">
+        <text>kepada seluruh masyarakat indonesia di as, dihimbau untuk terus meningkatkan kewaspadaan dan mematuhi protokol kesehatan.</text>
+        <aspectTerms>
+            <aspectTerm term="masyarakat indonesia di as" polarity="positive" from="15" to="40"/>
+            <aspectTerm term="protokol kesehatan" polarity="positive" from="102" to="119"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="448">
+        <text>saya tidak sabar menunggu warga jepang ke indonesia untuk ikut kelas bipa di kampus saya :'))</text>
+        <aspectTerms>
+            <aspectTerm term="warga jepang ke indonesia" polarity="positive" from="26" to="50"/>
+            <aspectTerm term="kelas bipa" polarity="positive" from="63" to="72"/>
+            <aspectTerm term="kampus" polarity="positive" from="77" to="82"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="449">
+        <text>terima kasih atas solidaritas untuk kejahatan terhadap kemanusiaan myanmar. dukungan anda sangat berarti. kami membutuhkan warga sipil seperti anda untuk memastikan pemerintah anda mewakili indonesia di sisi sejarah yang benar. terima kasih banyak dan tolong terus dukung kami!</text>
+        <aspectTerms>
+            <aspectTerm term="solidaritas" polarity="positive" from="18" to="28"/>
+            <aspectTerm term="kejahatan" polarity="positive" from="36" to="44"/>
+            <aspectTerm term="kemanusiaan myanmar" polarity="positive" from="55" to="73"/>
+            <aspectTerm term="warga sipil" polarity="positive" from="123" to="133"/>
+            <aspectTerm term="pemerintah" polarity="positive" from="165" to="174"/>
+            <aspectTerm term="indonesia" polarity="positive" from="190" to="198"/>
+            <aspectTerm term="sejarah" polarity="positive" from="208" to="214"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="450">
+        <text>hal ini memunculkan peluang untuk mengisi pasar ekspor yang lebih luas</text>
+        <aspectTerms>
+            <aspectTerm term="pasar ekspor" polarity="positive" from="42" to="53"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="451">
+        <text>laporan dari marine diving fair, japan 2021: warga jepang tidak sabar untuk kembali nikmati wisata selam indonesia.</text>
+        <aspectTerms>
+            <aspectTerm term="marine diving fair, japan 2021" polarity="positive" from="13" to="42"/>
+            <aspectTerm term="warga jepang" polarity="positive" from="45" to="56"/>
+            <aspectTerm term="wisata selam indonesia" polarity="positive" from="92" to="113"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="452">
+        <text>60 tahun dan seterusnya. perspektif hubungan indonesia - kamboja.</text>
+        <aspectTerms>
+            <aspectTerm term="60 tahun" polarity="positive" from="0" to="7"/>
+            <aspectTerm term="hubungan indonesia - kamboja" polarity="positive" from="36" to="63"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="453">
+        <text>kemlu ri bersama universitas udayana gelar webinar asem day 2021</text>
+        <aspectTerms>
+            <aspectTerm term="kemlu ri" polarity="positive" from="0" to="7"/>
+            <aspectTerm term="universitas udayana" polarity="positive" from="17" to="35"/>
+            <aspectTerm term="webinar asem day 2021" polarity="positive" from="43" to="63"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="454">
+        <text>pengumuman penting mengenai jadwal operasional kbri ottawa selama shutdown provinsi ontario.</text>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="455">
+        <text>untuk kamu pasangan perkawinan campuran wni-wna yang terpisah lama dan ingin menjalani puasa ramadan bersama.kamu bisa ajukan vitas penyatuan keluarga</text>
+        <aspectTerms>
+            <aspectTerm term="pasangan perkawinan campuran wni-wna" polarity="positive" from="11" to="46"/>
+            <aspectTerm term="puasa ramadan bersama" polarity="positive" from="87" to="107"/>
+            <aspectTerm term="vitas penyatuan keluarga" polarity="positive" from="126" to="149"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="456">
+        <text>duta indonesia menyambut program magang online</text>
+        <aspectTerms>
+            <aspectTerm term="duta indonesia" polarity="positive" from="0" to="13"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="457">
+        <text>sudahlah mending buka hubungan dengan israel</text>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="458">
+        <text>duta besar republik indonesia, h.e. bapak adam m. tugio secara resmi membuka indonesia - pakistan virtual trade expo 2021 pada tanggal 5 april 2021.</text>
+        <aspectTerms>
+            <aspectTerm term="duta besar republik indonesia, h.e. bapak adam m. tugio" polarity="positive" from="0" to="54"/>
+            <aspectTerm term="indonesia - pakistan virtual trade expo 2021" polarity="positive" from="77" to="120"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="459">
+        <text>duta besar indonesia berbicara dengan diaspora indonesia di pakistan</text>
+        <aspectTerms>
+            <aspectTerm term="duta besar indonesia" polarity="positive" from="0" to="19"/>
+            <aspectTerm term="diaspora indonesia di pakistan" polarity="positive" from="38" to="67"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="460">
+        <text>kak mau nanya dong, om nya background kerjanya apa yaa freelance apa aja yaa waktu tantenya diposting? izin nanya yaa, soalnya aku pengen nyoba kemlu hehe</text>
+        <aspectTerms>
+            <aspectTerm term="kemlu" polarity="positive" from="144" to="148"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="461">
+        <text>24 perusahaan indonesia tampil di "saudi virtual franchise exhibition" 5- 11 april 2021, dengan produk antara lain, fastfood, travel haji dan umroh, serta (spa), menawarkan kerjasama bisnis dengan calon mitra arab saudi</text>
+        <aspectTerms>
+            <aspectTerm term="24 perusahaan indonesia" polarity="positive" from="0" to="22"/>
+            <aspectTerm term="kerjasama bisnis" polarity="positive" from="123" to="188"/>
+            <aspectTerm term="mitra arab saudi" polarity="positive" from="203" to="218"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="462">
+        <text>apresiasi yang tinggi atas koordinasi erat tni - bin - kemlu. ke depan kita perlu bekerjasama tingkatkan aspek pencegahan.</text>
+        <aspectTerms>
+            <aspectTerm term="apresiasi" polarity="positive" from="0" to="8"/>
+            <aspectTerm term="koordinasi erat tni - bin - kemlu" polarity="positive" from="27" to="59"/>
+            <aspectTerm term="aspek pencegahan" polarity="positive" from="105" to="120"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="463">
+        <text>kemlu menyebut, hal teknis terkait waktu penyelenggaraan ktt asean tentang myanmar dan lainnya masih dalam pembahasan.</text>
+        <aspectTerms>
+            <aspectTerm term="kemlu" polarity="positive" from="0" to="4"/>
+            <aspectTerm term="teknis" polarity="positive" from="20" to="25"/>
+            <aspectTerm term="ktt asean tentang myanmar" polarity="positive" from="57" to="81"/>
+            <aspectTerm term="pembahasan" polarity="positive" from="107" to="116"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="464">
+        <text>kedutaan besar republik indonesia baku mengucapkan selamat merayakan paskah, 4 april 2021.</text>
+        <aspectTerms>
+            <aspectTerm term="kedutaan besar republik indonesia baku" polarity="positive" from="0" to="37"/>
+            <aspectTerm term="paskah" polarity="positive" from="69" to="75"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="465">
+        <text>saya mau tanya? sekarang sistem baru ketenagakerjaan di saudi memperbolehkan pekerja pulang tanpa harus mendapat izin dari kafil.. tapi sekarang saya ingin pulang dan minta izin dari kafil sampai sekarang saya masih belum dapat tanggapan.saya ingin pulang mandiri apakah bisa?</text>
+        <aspectTerms>
+            <aspectTerm term="sistem baru ketenagakerjaan di saudi" polarity="neutral" from="25" to="60"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="466">
+        <text>capek-capek lewat jalur kemlu sampai dibelain s2 eh ternyata kalah sama influencer.</text>
+        <aspectTerms>
+            <aspectTerm term="kemlu" polarity="negative" from="24" to="28"/>
+            <aspectTerm term="influencer" polarity="negative" from="72" to="81"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="467">
+        <text>teroris junta masih membunuh orang setiap hari.</text>
+        <aspectTerms>
+            <aspectTerm term="teroris junta" polarity="negative" from="0" to="12"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="468">
+        <text>iya bisa sih jadi dubes. tapi harus memastikan dulu kamu lolos cpns di kemlu yg notabenenya diisi sama big 5 universitas di indonesia</text>
+        <aspectTerms>
+            <aspectTerm term="dubes" polarity="positive" from="18" to="22"/>
+            <aspectTerm term="cpns di kemlu" polarity="positive" from="63" to="75"/>
+            <aspectTerm term="big 5 universitas di indonesia" polarity="positive" from="103" to="132"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="469">
+        <text>banjir melanda indonesia</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="470">
+        <text>pada 4 april 2021, dubes ri adam tugio mengundang rekan-rekan koordinator diaspora indonesia di pakistan untuk melakukan pertemuan virtual.</text>
+        <aspectTerms>
+            <aspectTerm term="dubes ri adam tugio" polarity="positive" from="19" to="37"/>
+            <aspectTerm term="koordinator diaspora indonesia di pakistan" polarity="positive" from="62" to="103"/>
+            <aspectTerm term="pertemuan virtual" polarity="positive" from="121" to="137"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="471">
+        <text>info tenaga musiman haji tahun ini bagaimana pak?</text>
+        <aspectTerms>
+            <aspectTerm term="tenaga musim haji" polarity="neutral" from="5" to="23"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="472">
+        <text>kisah sukses pt. cogindo dayabersama dari berbagai media.</text>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="473">
+        <text>turut berduka cita atas jatuhnya korban jiwa dan kerusakan akibat banjir bandang dan tanah longsor di provinsi nusa tenggara timur indonesia. berharap kekuatan untuk keluarga dan orang-orang terkasih dari para korban, dan untuk kesuksesan dalam upaya penyelamatan dan pemulihan.</text>
+        <aspectTerms>
+            <aspectTerm term="banjir bandang dan tanah longsor di provinsi nusa tenggara timur indonesia" polarity="positive" from="66" to="139"/>
+            <aspectTerm term="penyelamatan dan pemulihan" polarity="positive" from="251" to="276"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="474">
+        <text>perairan pantai likupang yang jernih pernah mengejutkan penduduk setempat dan world wildlife fund indonesia dengan ditemukannya penyu hijau pada tahun 2007 silam. kehadiran spesies langka ini menjadi bukti bahwa ekosistem laut sulawesi utara masih terjaga dengan baik.</text>
+        <aspectTerms>
+            <aspectTerm term="perairan pantai likupang" polarity="positive" from="0" to="23"/>
+            <aspectTerm term="world wildlife fund indonesia" polarity="positive" from="78" to="106"/>
+            <aspectTerm term="penyu hijau" polarity="positive" from="128" to="138"/>
+            <aspectTerm term="spesies langka" polarity="positive" from="173" to="186"/>
+            <aspectTerm term="ekosistem laut sulawesi utara" polarity="positive" from="212" to="240"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="475">
+        <text>menlu kembalikan sandera abu sayyaf ke keluarga</text>
+        <aspectTerms>
+            <aspectTerm term="menlu" polarity="positive" from="0" to="4"/>
+            <aspectTerm term="sandera abu sayyaf" polarity="positive" from="17" to="34"/>
+            <aspectTerm term="keluarga" polarity="positive" from="39" to="46"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="476">
+        <text>perairan sabah di malaysia adalah wilayah operasi kelompok abu sayyaf.</text>
+        <aspectTerms>
+            <aspectTerm term="perairan sabah di malaysia" polarity="negative" from="0" to="25"/>
+            <aspectTerm term="kelompok abu sayyaf" polarity="negative" from="50" to="69"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="477">
+        <text>kbri bandar seri begawan bekerja sama dengan ica brunei dan bali pitstop restaurant, menyelenggarakan pelatihan keterampilan pembuatan bakery dengan tema "membuat roti manis isi sosis", untuk para tki dan keluarga</text>
+        <aspectTerms>
+            <aspectTerm term="kbri bandar seri begawan" polarity="positive" from="0" to="23"/>
+            <aspectTerm term="ica brunei dan bali pitstop restaurant" polarity="positive" from="45" to="82"/>
+            <aspectTerm term="keterampilan" polarity="positive" from="112" to="123"/>
+            <aspectTerm term="tki dan keluarga" polarity="positive" from="197" to="212"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="478">
+        <text>webinar “mengenali/memahami proses perizinan pangan olahan: sinergi pemerintah dan pelaku usaha untuk dukung ekspor produk pangan olahan indonesia ke jepang barat" hari ini dapat juga disaksikan di channel youtube kjri osaka</text>
+        <aspectTerms>
+            <aspectTerm term="webinar" polarity="positive" from="0" to="6"/>
+            <aspectTerm term="channel youtube kjri osaka" polarity="positive" from="198" to="223"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="ekonomi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="479">
+        <text>kamipun yakin pemerintah indonesia di pusat dan daerah serta masyarakat terkena dampak dapat secara tangguh bangkit kembali.</text>
+        <aspectTerms>
+            <aspectTerm term="pemerintah indonesia" polarity="positive" from="14" to="33"/>
+            <aspectTerm term="pusat dan daerah" polarity="positive" from="38" to="53"/>
+            <aspectTerm term="masyarakat" polarity="positive" from="61" to="70"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="480">
+        <text>kami yakin indonesia dapat secara tangguh menanggulangi kejadian dan dampak bencana di ntt.</text>
+        <aspectTerms>
+            <aspectTerm term="indonesia" polarity="positive" from="11" to="19"/>
+            <aspectTerm term="kejadian dan dampak bencana" polarity="positive" from="56" to="82"/>
+            <aspectTerm term="ntt" polarity="positive" from="87" to="89"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="481">
+        <text>kemlu memastikan empat sandera eks abu sayyaf ini sudah tes pcr dan kondisi kesehatan mereka sehat dan bebas virus corona.</text>
+        <aspectTerms>
+            <aspectTerm term="kemlu" polarity="positive" from="0" to="4"/>
+            <aspectTerm term="empat sandera eks abu sayyaf" polarity="positive" from="17" to="44"/>
+            <aspectTerm term="tes pcr" polarity="positive" from="56" to="62"/>
+            <aspectTerm term="kondisi kesehatan" polarity="positive" from="68" to="84"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="482">
+        <text>dubes ri untuk sudan meninggal karena covid-19, kemlu upayakan pemulangan jenazah</text>
+        <aspectTerms>
+            <aspectTerm term="dubes ri untuk sudan meninggal" polarity="neutral" from="0" to="29"/>
+            <aspectTerm term="kemlu" polarity="positive" from="48" to="52"/>
+            <aspectTerm term="pemulangan jenazah" polarity="positive" from="63" to="80"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="483">
+        <text>kementerian luar negeri (kemlu) ri menyerahkan empat wni korban sandera kelompok abu sayyaf di filipina kepada keluarga. penyerahan dipimpin langsung menlu retno marsudi.</text>
+        <aspectTerms>
+            <aspectTerm term="kementerian luar negeri (kemlu) ri" polarity="positive" from="0" to="33"/>
+            <aspectTerm term="wni korban sandera kelompok abu sayyaf di filipina" polarity="positive" from="53" to="102"/>
+            <aspectTerm term="menlu retno marsudi" polarity="positive" from="150" to="168"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="484">
+        <text>terima kasih, saya akan meneruskan ini kepada rekan-rekan saya dan mungkin bisa mendengarkan dan menemukan cara untuk menyelesaikan masalah krisis myanmar ini secepat mungkin… kami sebagai warga sipil indonesia hanya bisa berdoa dan memberikan dukungan untuk rakyat myanmar.</text>
+        <aspectTerms>
+            <aspectTerm term="krisis myanmar" polarity="positive" from="140" to="153"/>
+            <aspectTerm term="warga sipil indonesia" polarity="positive" from="189" to="209"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="485">
+        <text>empat wni yang disandera abu sayyaf selama 427 hari kembali ke keluarga: kementerian luar negeri (kemlu) ri menyerahkan empat wni yang berhasil diselamatkan dari sandera kelompok abu sayyaf di filipina kepada keluarga.</text>
+        <aspectTerms>
+            <aspectTerm term="empat wni" polarity="neutral" from="0" to="8"/>
+            <aspectTerm term="abu sayyaf" polarity="neutral" from="25" to="34"/>
+            <aspectTerm term="keluarga" polarity="positive" from="63" to="70"/>
+            <aspectTerm term="kementerian luar negeri (kemlu) ri" polarity="positive" from="73" to="106"/>
+            <aspectTerm term="empat wni" polarity="positive" from="120" to="128"/>
+            <aspectTerm term="sandera kelompok abu sayyaf" polarity="positive" from="162" to="188"/>
+            <aspectTerm term="keluarga" polarity="positive" from="209" to="216"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="pwni" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="486">
+        <text>surga tersembunyi di sulawesi utara, likupang</text>
+        <aspectTerms>
+            <aspectTerm term="likupang" polarity="positive" from="37" to="44"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="487">
+        <text>yang mulia. ludmila vorobieva, duta besar federasi rusia untuk indonesia berbicara tentang berbagai upaya rusia untuk pemulihan covid19 dan mengulangi bagaimana negara-negara di seluruh dunia harus bekerja sama termasuk menghilangkan 'penghalang buatan' untuk pemulihan</text>
+        <aspectTerms>
+            <aspectTerm term="duta besar federasi rusia untuk indonesia" polarity="positive" from="31" to="71"/>
+            <aspectTerm term="pemulihan covid19" polarity="positive" from="118" to="134"/>
+            <aspectTerm term="negara-negara" polarity="positive" from="161" to="173"/>
+            <aspectTerm term="dunia" polarity="positive" from="186" to="190"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="488">
+        <text>masni eriza, direktur kerjasama antar-kawasan dan intra-regional amerika dan eropa memulai diskusi dengan pengenalan asem..bagaimana asem telah berkembang selama 25 tahun terakhir dan bekerja karena niat baik dari negara-negara mitranya</text>
+        <aspectTerms>
+            <aspectTerm term="masni eriza, direktur kerjasama antar-kawasan dan intra-regional amerika dan eropa" polarity="neutral" from="0" to="81"/>
+            <aspectTerm term="asem" polarity="neutral" from="117" to="120"/>
+            <aspectTerm term="asem" polarity="positive" from="133" to="136"/>
+            <aspectTerm term="negara-negara mitranya" polarity="positive" from="214" to="235"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="489">
+        <text>yang mulia bapak ngurah swajaya, direktur jenderal amerika dan eropa, dalam keynote speech-nya, menyoroti pentingnya kerja sama multilateral untuk pemulihan pasca-pandemi covid-19 dan peran penting asem dalam berkontribusi terhadap upaya tersebut.</text>
+        <aspectTerms>
+            <aspectTerm term="bapak ngurah swajaya, direktur jenderal amerika dan eropa" polarity="positive" from="11" to="67"/>
+            <aspectTerm term="kerja sama multilateral" polarity="positive" from="117" to="139"/>
+            <aspectTerm term="pemulihan pasca-pandemi covid-19" polarity="positive" from="157" to="179"/>
+            <aspectTerm term="asem" polarity="positive" from="198" to="201"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="490">
+        <text>webinar yang diinisiasi dubes ri di belanda tentang pengalaman vaksinasi lansia antara belanda, jerman dan indonesia yang diwakili dinas kesehatan. ternyata vaksinasi lansia tak kalah dalam inovasi untuk mengejar cakupan yang tidak mudah.</text>
+        <aspectTerms>
+            <aspectTerm term="webinar" polarity="neutral" from="0" to="7"/>
+            <aspectTerm term="dubes ri di belanda" polarity="neutral" from="24" to="42"/>
+            <aspectTerm term="vaksinasi lansia" polarity="positive" from="63" to="78"/>
+            <aspectTerm term="dinas kesehatan" polarity="positive" from="131" to="145"/>
+            <aspectTerm term="vaksinasi lansia" polarity="positive" from="157" to="172"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="fi" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="491">
+        <text>duta besar dan seluruh staf ingin menyampaikan belasungkawa yang sedalam-dalamnya atas meninggalnya h.e. drs. rossalis rusman adenan, duta besar indonesia untuk sudan.</text>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="492">
+        <text>mulai dalam beberapa menit.. bagikan pemikiran anda tentang pemulihan pasca pandemi dan bersiap-siap untuk 'normal baru' bergabunglah dengan kami secara langsung</text>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="493">
+        <text>daftar aja nanti cpns kemlu nanti auto diplomat. fasilitas yang didapat juga mantep ada apartmen mewah, mobil dinas, art 1 bisa dibawa juga, dan tentu gaji yg besar. saya sudah melihat itu semua dan berasa ya allahhhh pengen.</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="494">
+        <text>bergabunglah dengan kami secara langsung untuk webinar pukul 09.00 hingga 12.00 sgt tentang “bersiap untuk new normal: strategi asem menavigasi pemulihan pandemi pasca-covid-19?” diselenggarakan oleh kemlu dan universitas udayana dalam rangka memperingati hut asem ke-25 tahun ini ️</text>
+        <aspectTerms>
+            <aspectTerm term="webinar" polarity="positive" from="47" to="53"/>
+            <aspectTerm term="kemlu" polarity="positive" from="200" to="204"/>
+            <aspectTerm term="universitas udayana" polarity="positive" from="210" to="228"/>
+            <aspectTerm term="hut asem ke-25" polarity="positive" from="256" to="269"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="positive"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="495">
+        <text>bisa bantu aku gak soal bahasa</text>
+        <aspectCategories>
+            <aspectCategory category="others" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="496">
+        <text>indonesia mau klaim ini juga, min</text>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="497">
+        <text>semuanya bermuara pada apakah irlandia ingin membuka diri untuk turis indonesia, pelajar, pebisnis, dll dan upaya yang dilakukan untuk membebaskan warganya dari persyaratan visa ke irlandia (dan juga inggris).</text>
+        <aspectTerms>
+            <aspectTerm term="irlandia" polarity="negative" from="30" to="37"/>
+            <aspectTerm term="turis indonesia" polarity="neutral" from="64" to="78"/>
+            <aspectTerm term="visa" polarity="negative" from="173" to="176"/>
+            <aspectTerm term="irlandia (dan juga inggris)" polarity="neutral" from="181" to="207"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="498">
+        <text>perkuat rudal dan buat rudal balistik. dari aceh bisa hantam perbatasan papua papua nugini. kalo pesawat kalo tidak mampu ya jangan dipaksain pak.</text>
+        <aspectTerms>
+            <aspectTerm term="rudal" polarity="positive" from="8" to="12"/>
+            <aspectTerm term="rudal balistik" polarity="positive" from="23" to="36"/>
+            <aspectTerm term="aceh" polarity="positive" from="44" to="47"/>
+            <aspectTerm term="perbatasan papua papua nugini" polarity="positive" from="61" to="89"/>
+            <aspectTerm term="pesawat" polarity="negative" from="97" to="103"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="negative"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="499">
+        <text>ada juga beberapa warga negara yang tidak memerlukan visa ke inggris tetapi tetap melakukannya ke irlandia. saya bisa menyebutkan papua nugini, namibia, timor leste. dan warga negara gcc seperti kuwait, oman, dan qatar dapat memperoleh evw ke inggris tetapi masih memerlukan visa ke irlandia.</text>
+        <aspectTerms>
+            <aspectTerm term="visa ke inggris" polarity="neutral" from="53" to="67"/>
+            <aspectTerm term="irlandia" polarity="neutral" from="98" to="105"/>
+            <aspectTerm term="evw ke inggris" polarity="neutral" from="236" to="249"/>
+            <aspectTerm term="visa ke irlandia" polarity="neutral" from="275" to="290"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+    <sentence id="500">
+        <text>saya mohon untuk berbeda. warga negara fiji, swazi, dan lesotho tidak memerlukan visa ke irlandia. tetapi negara-negara itu masih memerlukan visa ke inggris.</text>
+        <aspectTerms>
+            <aspectTerm term="visa ke irlandia" polarity="neutral" from="81" to="96"/>
+            <aspectTerm term="visa ke inggris" polarity="neutral" from="141" to="155"/>
+        </aspectTerms>
+        <aspectCategories>
+            <aspectCategory category="kedaulatan" polarity="neutral"/>
+        </aspectCategories>
+    </sentence>
+</sentences>
